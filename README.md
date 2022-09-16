@@ -4,4 +4,4 @@
 
 <p>I have also covered Sass which is a preprocessor of CSS</p>
 
-<p>Special thanks to Brad Traversy<p>
+<p>Special thanks to <a href="https://github.com/bradtraversy">Brad Traversy</a><p>
