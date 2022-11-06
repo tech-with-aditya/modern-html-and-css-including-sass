@@ -1,1 +1,1 @@
-<h1>A Hotel Website using only HTML and CSS basics</h1>
+<h1>A Hotel Website using only HTML5 and CSS3 basics</h1>
